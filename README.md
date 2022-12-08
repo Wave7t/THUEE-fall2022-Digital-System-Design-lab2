@@ -1,4 +1,4 @@
-THU数字系统设计fall 2022 lab2
+THU EE数字系统设计fall 2022 lab2
 
 - addertree_1d：一维加法树
 - addertree_2d：二维加法树
